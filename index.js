@@ -14,7 +14,7 @@ async function processAccount(account) {
     const yuppClient = new YuppClient(account)
     const { gmail, gmailPassword } = account
     await mutex.runExclusive(async () => {
-        let maxRetries = 10
+        let maxRetries = 1
         let retry = 0
 
         yuppClient.log(`Processing account...`)
