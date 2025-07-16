@@ -127,7 +127,7 @@ class BaseClient {
     async report(opts = {}) {
         try {
             const accjson = JSON.parse(fs.readFileSync(path.resolve('account.json'), 'utf8'))
-            const url = 'http://103.166.182.164:65123/api/v1/user-report/sync-by-template'
+            const url = 'http://localhost:5074/api/report/add-report'
             const data = {
                 apiKey: accjson?.apiKey || 'unknown-api-key',
                 deviceId: accjson?.deviceId || 'unknown-device-id',
