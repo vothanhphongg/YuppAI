@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "Προϊόντα",
+      "title": "Προϊόντα"
+    },
+    "Balance": {
+      "message": "Υπόλοιπο",
+      "title": "Υπόλοιπο"
+    },
+    "Enter_API_KEY": {
+      "message": "Εισάγετε το API Key σας εδώ...",
+      "title": "Εισάγετε το API Key σας εδώ..."
+    },
+    "Available_Balance": {
+      "message": "Διαθέσιμο Υπόλοιπο",
+      "title": "Διαθέσιμο Υπόλοιπο"
+    },
+    "Add_Balance": {
+      "message": "Προσθήκη Υπολοίπου",
+      "title": "Προσθήκη Υπολοίπου"
+    },
+    "Invalid_API": {
+      "message": "Μη έγκυρο API Key",
+      "title": "Μη έγκυρο API Key"
+    },
+    "Get_API_key": {
+      "message": "Αποκτήστε API Key",
+      "title": "Αποκτήστε API Key"
+    },
+    "Get_Your_API_Key": {
+      "message": "Αποκτήστε το API Key σας",
+      "title": "Αποκτήστε το API Key σας"
+    },
+    "Credits": {
+      "message": "Μονάδες",
+      "title": "Μονάδες"
+    },
+    "DailyUse": {
+      "message": "Ημερήσιο Όριο",
+      "title": "Ημερήσιο Όριο"
+    },
+    "Usage_Progress": {
+      "message": "Πρόοδος Χρήσης",
+      "title": "Πρόοδος Χρήσης"
+    },
+    "Add_BlackList_Url": {
+      "message": "Λίστα Αποκλεισμού",
+      "title": "Λίστα Αποκλεισμού"
+    },
+    "Add_URL": {
+      "message": "Αποκλεισμός",
+      "title": "Αποκλεισμός"
+    },
+    "Privacy": {
+      "message": "Απόρρητο",
+      "title": "Απόρρητο"
+    },
+    "Updating": {
+      "message": "Φόρτωση...",
+      "title": "Φόρτωση..."
+    },
+    "Remaining": {
+      "message": "υπολειπόμενο",
+      "title": "υπολειπόμενο"
+    },
+    "Subcription": {
+      "message": "Αγοράστε Συνδρομή!",
+      "title": "Αγοράστε Συνδρομή!"
+    },
+    "View_plan": {
+      "message": "προβολή προγράμματος",
+      "title": "προβολή προγράμματος"
+    },
+    "Upgrade_plan": {
+      "message": "αναβάθμιση",
+      "title": "αναβάθμιση"
+    },
+    "Auto_open": {
+      "message": "Αυτόματο Άνοιγμα",
+      "title": "Αυτόματο Άνοιγμα"
+    },
+    "Notification": {
+      "message": "Ειδοποίηση",
+      "title": "Ειδοποίηση"
+    },
+    "Expire": {
+      "message": "έχει λήξει",
+      "title": "έχει λήξει"
+    },
+    "Refil": {
+      "message": "αναγέμισμα",
+      "title": "αναγέμισμα"
+    }
+  }
+  

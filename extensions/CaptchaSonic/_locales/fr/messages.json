@@ -1,0 +1,94 @@
+{
+  "CaptchaList": {
+    "message": "Produits",
+    "title": "Produits"
+  },
+  "Balance": {
+    "message": "Solde",
+    "title": "Solde"
+  },
+  "Enter_API_KEY": {
+    "message": "Entrez votre clé API ici...",
+    "title": "Entrez votre clé API ici..."
+  },
+  "Available_Balance": {
+    "message": "Solde disponible",
+    "title": "Solde disponible"
+  },
+  "Add_Balance": {
+    "message": "Ajouter un solde",
+    "title": "Ajouter un solde"
+  },
+  "Invalid_API": {
+    "message": "Clé API invalide",
+    "title": "Clé API invalide"
+  },
+  "Get_API_key": {
+    "message": "Obtenir une clé API",
+    "title": "Obtenir une clé API"
+  },
+  "Get_Your_API_Key": {
+    "message": "Obtenez votre clé API",
+    "title": "Obtenez votre clé API"
+  },
+  "Credits": {
+    "message": "Crédits",
+    "title": "Crédits"
+  },
+  "DailyUse": {
+    "message": "Utilisation quotidienne",
+    "title": "Utilisation quotidienne"
+  },
+  "Usage_Progress": {
+    "message": "Progression de l'utilisation",
+    "title": "Progression de l'utilisation"
+  },
+  "Add_BlackList_Url": {
+    "message": "Ajouter une URL à la liste noire",
+    "title": "Ajouter une URL à la liste noire"
+  },
+  "Add_URL": {
+    "message": "Blocage",
+    "title": "Blocage"
+  },
+  "Privacy": {
+    "message": "Confidentialité",
+    "title": "Confidentialité"
+  },
+  "Updating": {
+    "message": "Chargement...",
+    "title": "Chargement..."
+  },
+  "Remaining": {
+    "message": "restant",
+    "title": "restant"
+  },
+  "Subcription":{
+    "message":"Achetez un abonnement!",
+    "title":"Achetez un abonnement!"
+  },
+  "View_plan":{
+    "message":"Voir le plan",
+    "title":"Voir le plan"
+  },
+  "Upgrade_plan":{
+    "message":"Améliorer",
+    "title":"Améliorer"
+  },
+  "Auto_open": {
+    "message": "ouverture automatique",
+    "title": "ouverture automatique"
+  },
+  "Notification": {
+    "message": "Notification",
+    "title": "Notification"
+  },
+  "Expire": {
+    "message": "expiré",
+    "title": "expiré"
+  },
+  "Refil": {
+    "message": "recharge",
+    "title": "recharge"
+  }
+}

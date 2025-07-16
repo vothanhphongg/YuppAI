@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "Producten",
+      "title": "Producten"
+    },
+    "Balance": {
+      "message": "Saldo",
+      "title": "Saldo"
+    },
+    "Enter_API_KEY": {
+      "message": "Voer hier je API-sleutel in...",
+      "title": "Voer hier je API-sleutel in..."
+    },
+    "Available_Balance": {
+      "message": "Beschikbaar Saldo",
+      "title": "Beschikbaar Saldo"
+    },
+    "Add_Balance": {
+      "message": "Saldo Toevoegen",
+      "title": "Saldo Toevoegen"
+    },
+    "Invalid_API": {
+      "message": "Ongeldige API-sleutel",
+      "title": "Ongeldige API-sleutel"
+    },
+    "Get_API_key": {
+      "message": "Krijg API-sleutel",
+      "title": "Krijg API-sleutel"
+    },
+    "Get_Your_API_Key": {
+      "message": "Krijg je API-sleutel",
+      "title": "Krijg je API-sleutel"
+    },
+    "Credits": {
+      "message": "Credits",
+      "title": "Credits"
+    },
+    "DailyUse": {
+      "message": "Daglimiet",
+      "title": "Daglimiet"
+    },
+    "Usage_Progress": {
+      "message": "Gebruik Voortgang",
+      "title": "Gebruik Voortgang"
+    },
+    "Add_BlackList_Url": {
+      "message": "Zwarte Lijst",
+      "title": "Zwarte Lijst"
+    },
+    "Add_URL": {
+      "message": "Blokkeren",
+      "title": "Blokkeren"
+    },
+    "Privacy": {
+      "message": "Privacy",
+      "title": "Privacy"
+    },
+    "Updating": {
+      "message": "Laden...",
+      "title": "Laden..."
+    },
+    "Remaining": {
+      "message": "over",
+      "title": "over"
+    },
+    "Subcription": {
+      "message": "Koop een abonnement!",
+      "title": "Koop een abonnement!"
+    },
+    "View_plan": {
+      "message": "Bekijk plan",
+      "title": "Bekijk plan"
+    },
+    "Upgrade_plan": {
+      "message": "Upgrade",
+      "title": "Upgrade"
+    },
+    "Auto_open": {
+      "message": "Automatisch openen",
+      "title": "Automatisch openen"
+    },
+    "Notification": {
+      "message": "Melding",
+      "title": "Melding"
+    },
+    "Expire": {
+      "message": "verlopen",
+      "title": "verlopen"
+    },
+    "Refil": {
+      "message": "vullen",
+      "title": "vullen"
+    }
+  }
+  

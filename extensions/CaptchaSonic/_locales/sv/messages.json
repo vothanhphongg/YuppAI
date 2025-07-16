@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "Produkter",
+      "title": "Produkter"
+    },
+    "Balance": {
+      "message": "Saldo",
+      "title": "Saldo"
+    },
+    "Enter_API_KEY": {
+      "message": "Ange din API-nyckel här...",
+      "title": "Ange din API-nyckel här..."
+    },
+    "Available_Balance": {
+      "message": "Tillgängligt saldo",
+      "title": "Tillgängligt saldo"
+    },
+    "Add_Balance": {
+      "message": "Lägg till saldo",
+      "title": "Lägg till saldo"
+    },
+    "Invalid_API": {
+      "message": "Ogiltig API-nyckel",
+      "title": "Ogiltig API-nyckel"
+    },
+    "Get_API_key": {
+      "message": "Hämta API-nyckel",
+      "title": "Hämta API-nyckel"
+    },
+    "Get_Your_API_Key": {
+      "message": "Hämta din API-nyckel",
+      "title": "Hämta din API-nyckel"
+    },
+    "Credits": {
+      "message": "Krediter",
+      "title": "Krediter"
+    },
+    "DailyUse": {
+      "message": "Daglig gräns",
+      "title": "Daglig gräns"
+    },
+    "Usage_Progress": {
+      "message": "Användningsframsteg",
+      "title": "Användningsframsteg"
+    },
+    "Add_BlackList_Url": {
+      "message": "Svartlista",
+      "title": "Svartlista"
+    },
+    "Add_URL": {
+      "message": "Blockera",
+      "title": "Blockera"
+    },
+    "Privacy": {
+      "message": "Integritet",
+      "title": "Integritet"
+    },
+    "Updating": {
+      "message": "Laddar...",
+      "title": "Laddar..."
+    },
+    "Remaining": {
+      "message": "kvar",
+      "title": "kvar"
+    },
+    "Subcription": {
+      "message": "Köp prenumeration!",
+      "title": "Köp prenumeration!"
+    },
+    "View_plan": {
+      "message": "Visa plan",
+      "title": "Visa plan"
+    },
+    "Upgrade_plan": {
+      "message": "Uppgradera",
+      "title": "Uppgradera"
+    },
+    "Auto_open": {
+      "message": "Automatisk öppning",
+      "title": "Automatisk öppning"
+    },
+    "Notification": {
+      "message": "Avisering",
+      "title": "Avisering"
+    },
+    "Expire": {
+      "message": "utgått",
+      "title": "utgått"
+    },
+    "Refil": {
+      "message": "fyllning",
+      "title": "fyllning"
+    }
+  }
+  

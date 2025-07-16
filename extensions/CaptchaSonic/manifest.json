@@ -1,0 +1,123 @@
+{
+    "manifest_version": 3,
+    "name": "CaptchaSonic: Automatic Captcha Solver",
+    "description": "Solve all kinds of Captcha's with CaptchaSonic Ai Automation Tool",
+    "version": "0.2.1",
+    "icons": {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    },
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4HN5Ubf0G+4NuQcX4ql+5K77XvYa44RzWYcKBgpcsupbn5D0yq7BnJ0qSbl6mag/C1LX7zpPVEU9g+728oUmEfsP5RnPzo90H6WAE6pNZ0giKSDD1il0AonQ5BznmyyYgn6tWPZDvKyyEFL6I6C/QWBIhjVSsirVqQjQ52QlW/dg0UM+uvCQ4yk3RijOU/Jy+d+FKvgvZW2R35Hoy8W2OHANpOGVlgq1IQxKpQe//p0qIYhlBGbdE3rWgW5j8BiwkS7Kja38tIFHc3D40rfn6QiZygevkku15p32BNbfaOSkdVxSKUmj3Oh3+Pwxj7zO24zB/P29X057I/MsGqigdwIDAQAB",
+    "default_locale": "en",
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_title": "CaptchaSonic Extension",
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icons/icon16.png",
+            "32": "icons/icon32.png",
+            "48": "icons/icon48.png",
+            "128": "icons/icon128.png"
+        }
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "run_at": "document_end",
+            "js": [
+                "content-scripts/awswaf.js",
+                "content-scripts/bls.js",
+                "content-scripts/geetest4.js",
+                "content-scripts/geetest3.js",
+                "content-scripts/popularCaptcha.js",
+                "content-scripts/reCaptcha.js",
+                "content-scripts/prosopo.js",
+                "content-scripts/captchaFox.js",
+                "content-scripts/tencent.js"
+            ]
+        },
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "all_frames": true,
+            "js": [
+                "content-scripts/awswaf.js",
+                "content-scripts/binance.js",
+                "content-scripts/bls.js",
+                "content-scripts/captchaFox.js",
+                "content-scripts/geetest3.js",
+                "content-scripts/geetest4.js",
+                "content-scripts/mtCaptcha.js",
+                "content-scripts/popularCaptcha.js",
+                "content-scripts/prosopo.js",
+                "content-scripts/reCaptcha.js",
+                "content-scripts/solveCallback.js",
+                "content-scripts/tencent.js",
+                "content-scripts/tiktok.js",
+                "content-scripts/trunstile.js"
+            ]
+        },
+        {
+            "matches": [
+                "https://newassets.hcaptcha.com/*"
+            ],
+            "all_frames": true,
+            "js": [
+                "content-scripts/global.js"
+            ],
+            "world": "MAIN"
+        },
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content-scripts/notify.js"
+            ]
+        }
+    ],
+    "minimum_chrome_version": "100.0",
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "content_security_policy": {
+        "extension_pages": "script-src 'self'; object-src 'self';"
+    },
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "addon@captchasonic.com",
+            "strict_min_version": "80.0"
+        }
+    },
+    "permissions": [
+        "tabs",
+        "storage",
+        "contextMenus",
+        "activeTab"
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "*"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        },
+        {
+            "resources": [
+                "content-scripts/notify.css"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
+    ]
+}

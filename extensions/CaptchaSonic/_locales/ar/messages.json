@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "المنتجات",
+      "title": "المنتجات"
+    },
+    "Balance": {
+      "message": "الرصيد",
+      "title": "الرصيد"
+    },
+    "Enter_API_KEY": {
+      "message": "أدخل مفتاح API الخاص بك هنا...",
+      "title": "أدخل مفتاح API الخاص بك هنا..."
+    },
+    "Available_Balance": {
+      "message": "الرصيد المتاح",
+      "title": "الرصيد المتاح"
+    },
+    "Add_Balance": {
+      "message": "إضافة رصيد",
+      "title": "إضافة رصيد"
+    },
+    "Invalid_API": {
+      "message": "مفتاح API غير صالح",
+      "title": "مفتاح API غير صالح"
+    },
+    "Get_API_key": {
+      "message": "احصل على مفتاح API",
+      "title": "احصل على مفتاح API"
+    },
+    "Get_Your_API_Key": {
+      "message": "احصل على مفتاح API الخاص بك",
+      "title": "احصل على مفتاح API الخاص بك"
+    },
+    "Credits": {
+      "message": "النقاط",
+      "title": "النقاط"
+    },
+    "DailyUse": {
+      "message": "الحد اليومي",
+      "title": "الحد اليومي"
+    },
+    "Usage_Progress": {
+      "message": "تقدم الاستخدام",
+      "title": "تقدم الاستخدام"
+    },
+    "Add_BlackList_Url": {
+      "message": "القائمة السوداء",
+      "title": "القائمة السوداء"
+    },
+    "Add_URL": {
+      "message": "حظر",
+      "title": "حظر"
+    },
+    "Privacy": {
+      "message": "الخصوصية",
+      "title": "الخصوصية"
+    },
+    "Updating": {
+      "message": "جارٍ التحميل...",
+      "title": "جارٍ التحميل..."
+    },
+    "Remaining": {
+      "message": "المتبقي",
+      "title": "المتبقي"
+    },
+    "Subcription": {
+      "message": "اشترك الآن!",
+      "title": "اشترك الآن!"
+    },
+    "View_plan": {
+      "message": "عرض الخطة",
+      "title": "عرض الخطة"
+    },
+    "Upgrade_plan": {
+      "message": "الخطة",
+      "title": "الخطة"
+    },
+    "Expire": {
+      "message": "منتهي",
+      "title": "منتهي"
+    },
+    "Auto_open": {
+      "message": "فتح تلقائي",
+      "title": "فتح تلقائي"
+    },
+    "Notification": {
+      "message": "إشعار",
+      "title":  "إشعار"
+    },
+    "Refil": {
+      "message": "إعادة تعبئة",
+      "title":  "إعادة تعبئة"
+    }
+  }
+  

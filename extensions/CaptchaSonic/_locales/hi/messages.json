@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "उत्पाद",
+      "title": "उत्पाद"
+    },
+    "Balance": {
+      "message": "शेष राशि",
+      "title": "शेष राशि"
+    },
+    "Enter_API_KEY": {
+      "message": "अपनी API कुंजी यहाँ दर्ज करें...",
+      "title": "अपनी API कुंजी यहाँ दर्ज करें..."
+    },
+    "Available_Balance": {
+      "message": "उपलब्ध शेष राशि",
+      "title": "उपलब्ध शेष राशि"
+    },
+    "Add_Balance": {
+      "message": "शेष राशि जोड़ें",
+      "title": "शेष राशि जोड़ें"
+    },
+    "Invalid_API": {
+      "message": "अमान्य API कुंजी",
+      "title": "अमान्य API कुंजी"
+    },
+    "Get_API_key": {
+      "message": "API कुंजी प्राप्त करें",
+      "title": "API कुंजी प्राप्त करें"
+    },
+    "Get_Your_API_Key": {
+      "message": "अपनी API कुंजी प्राप्त करें",
+      "title": "अपनी API कुंजी प्राप्त करें"
+    },
+    "Credits": {
+      "message": "क्रेडिट",
+      "title": "क्रेडिट"
+    },
+    "DailyUse": {
+      "message": "दैनिक सीमा",
+      "title": "दैनिक सीमा"
+    },
+    "Usage_Progress": {
+      "message": "उपयोग प्रगति",
+      "title": "उपयोग प्रगति"
+    },
+    "Add_BlackList_Url": {
+      "message": "ब्लैकलिस्ट",
+      "title": "ब्लैकलिस्ट"
+    },
+    "Add_URL": {
+      "message": "ब्लॉक करें",
+      "title": "ब्लॉक करें"
+    },
+    "Privacy": {
+      "message": "गोपनीयता",
+      "title": "गोपनीयता"
+    },
+    "Updating": {
+      "message": "लोड हो रहा है...",
+      "title": "लोड हो रहा है..."
+    },
+    "Remaining": {
+      "message": "शेष",
+      "title": "शेष"
+    },
+    "Subcription": {
+      "message": "सदस्यता खरीदें!",
+      "title": "सदस्यता खरीदें!"
+    },
+    "View_plan": {
+      "message": "योजना देखें",
+      "title": "योजना देखें"
+    },
+    "Upgrade_plan": {
+      "message": "योजना",
+      "title": "योजना"
+    },
+    "Auto_open": {
+      "message": "स्वचालित खोलें",
+      "title": "स्वचालित खोलें"
+    },
+    "Notification": {
+      "message": "सूचना",
+      "title": "सूचना"
+    },
+    "Expire": {
+      "message": "समाप्त",
+      "title": "समाप्त"
+    },
+    "Refil": {
+      "message": "पुनः भरें",
+      "title": "पुनः भरें"
+    }
+  }
+  

@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "产品",
+      "title": "产品"
+    },
+    "Balance": {
+      "message": "余额",
+      "title": "余额"
+    },
+    "Enter_API_KEY": {
+      "message": "在此输入您的 API 密钥...",
+      "title": "在此输入您的 API 密钥..."
+    },
+    "Available_Balance": {
+      "message": "可用余额",
+      "title": "可用余额"
+    },
+    "Add_Balance": {
+      "message": "添加余额",
+      "title": "添加余额"
+    },
+    "Invalid_API": {
+      "message": "无效的 API 密钥",
+      "title": "无效的 API 密钥"
+    },
+    "Get_API_key": {
+      "message": "获取 API 密钥",
+      "title": "获取 API 密钥"
+    },
+    "Get_Your_API_Key": {
+      "message": "获取您的 API 密钥",
+      "title": "获取您的 API 密钥"
+    },
+    "Credits": {
+      "message": "积分",
+      "title": "积分"
+    },
+    "DailyUse": {
+      "message": "每日限制",
+      "title": "每日限制"
+    },
+    "Usage_Progress": {
+      "message": "使用进度",
+      "title": "使用进度"
+    },
+    "Add_BlackList_Url": {
+      "message": "黑名单",
+      "title": "黑名单"
+    },
+    "Add_URL": {
+      "message": "阻止",
+      "title": "阻止"
+    },
+    "Privacy": {
+      "message": "隐私",
+      "title": "隐私"
+    },
+    "Updating": {
+      "message": "加载中...",
+      "title": "加载中..."
+    },
+    "Remaining": {
+      "message": "剩余",
+      "title": "剩余"
+    },
+    "Subcription": {
+      "message": "购买订阅！",
+      "title": "购买订阅！"
+    },
+    "View_plan": {
+      "message": "查看计划",
+      "title": "查看计划"
+    },
+    "Upgrade_plan": {
+      "message": "升级计划",
+      "title": "升级计划"
+    },
+    "Auto_open": {
+      "message": "自动打开",
+      "title": "自动打开"
+    },
+    "Notification": {
+      "message": "通知",
+      "title": "通知"
+    },
+    "Expire": {
+      "message": "过期",
+      "title": "过期"
+    },
+    "Refil": {
+      "message": "补充",
+      "title": "补充"
+    }
+  }
+  

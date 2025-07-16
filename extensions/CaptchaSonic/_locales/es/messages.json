@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "Productos",
+      "title": "Productos"
+    },
+    "Balance": {
+      "message": "Saldo",
+      "title": "Saldo"
+    },
+    "Enter_API_KEY": {
+      "message": "Ingrese su clave API aquí...",
+      "title": "Ingrese su clave API aquí..."
+    },
+    "Available_Balance": {
+      "message": "Saldo Disponible",
+      "title": "Saldo Disponible"
+    },
+    "Add_Balance": {
+      "message": "Agregar Saldo",
+      "title": "Agregar Saldo"
+    },
+    "Invalid_API": {
+      "message": "Clave API Inválida",
+      "title": "Clave API Inválida"
+    },
+    "Get_API_key": {
+      "message": "Obtener Clave API",
+      "title": "Obtener Clave API"
+    },
+    "Get_Your_API_Key": {
+      "message": "Obtén tu Clave API",
+      "title": "Obtén tu Clave API"
+    },
+    "Credits": {
+      "message": "Créditos",
+      "title": "Créditos"
+    },
+    "DailyUse": {
+      "message": "Límite Diario",
+      "title": "Límite Diario"
+    },
+    "Usage_Progress": {
+      "message": "Progreso de Uso",
+      "title": "Progreso de Uso"
+    },
+    "Add_BlackList_Url": {
+      "message": "Lista Negra",
+      "title": "Lista Negra"
+    },
+    "Add_URL": {
+      "message": "Bloquear",
+      "title": "Bloquear"
+    },
+    "Privacy": {
+      "message": "Privacidad",
+      "title": "Privacidad"
+    },
+    "Updating": {
+      "message": "Cargando...",
+      "title": "Cargando..."
+    },
+    "Remaining": {
+      "message": "restante",
+      "title": "restante"
+    },
+    "Subcription": {
+      "message": "¡Compra una Suscripción!",
+      "title": "¡Compra una Suscripción!"
+    },
+    "View_plan": {
+      "message": "ver plan",
+      "title": "ver plan"
+    },
+    "Upgrade_plan": {
+      "message": "mejorar",
+      "title": "mejorar"
+    },
+    "Auto_open": {
+      "message": "Apertura Automática",
+      "title": "Apertura Automática"
+    },
+    "Notification": {
+      "message": "Notificación",
+      "title": "Notificación"
+    },
+    "Expire": {
+      "message": "caducado",
+      "title": "caducado"
+    },
+    "Refil": {
+      "message": "rellenar",
+      "title": "rellenar"
+    }
+  }
+  

@@ -1,0 +1,94 @@
+{
+  "CaptchaList": {
+    "message": "Produkte",
+    "title": "Produkte"
+  },
+  "Enter_API_KEY": {
+    "message": "Geben Sie hier Ihren API-Schlüssel ein...",
+    "title": "Geben Sie hier Ihren API-Schlüssel ein..."
+  },
+  "Balance": {
+    "message": "Guthaben",
+    "title": "Guthaben"
+  },
+  "Available_Balance": {
+    "message": "Verfügbares Guthaben",
+    "title": "Verfügbares Guthaben"
+  },
+  "Add_Balance": {
+    "message": "Aufladen",
+    "title": "Aufladen"
+  },
+  "Invalid_API": {
+    "message": "Ungültiger API-Schlüssel",
+    "title": "Ungültiger API-Schlüssel"
+  },
+  "Get_API_key": {
+    "message": "API-Schlüssel",
+    "title": "API-Schlüssel"
+  },
+  "Get_Your_API_Key": {
+    "message": "API-Schlüssel holen",
+    "title": "API-Schlüssel holen"
+  },
+  "Credits": {
+    "message": "Credits",
+    "title": "Credits"
+  },
+  "DailyUse": {
+    "message": "Tägliche Nutzung",
+    "title": "Tägliche Nutzung"
+  },
+  "Usage_Progress": {
+    "message": "Nutzungsfortschritt",
+    "title": "Nutzungsfortschritt"
+  },
+  "Add_BlackList_Url": {
+    "message": "URL zur schwarzen Liste hinzufügen",
+    "title": "URL zur schwarzen Liste hinzufügen"
+  },
+  "Add_URL": {
+    "message": "Blockade",
+    "title": "Blockade"
+  },
+  "Privacy": {
+    "message": "Datenschutz",
+    "title": "Datenschutz"
+  },
+  "Updating": {
+    "message": "Wird geladen...",
+    "title": "Wird geladen..."
+  },
+  "Remaining": {
+    "message": "verbleibend",
+    "title": "verbleibend"
+  },
+  "Subcription":{
+    "message":"Abonnieren Sie!",
+    "title":"Abonnieren Sie!"
+  },
+  "View_plan":{
+    "message":"Plan anzeigen",
+    "title":"Plan anzeigen"
+  },
+  "Upgrade_plan":{
+    "message":"updaten",
+    "title":"updaten"
+  },
+  "Auto_open": {
+    "message": "automatisches Öffnen",
+    "title": "automatisches Öffnen"
+  },
+  "Notification": {
+    "message": "Benachrichtigung",
+    "title": "Benachrichtigung"
+  },
+  "Expire": {
+    "message": "abgelaufen",
+    "title": "abgelaufen"
+  },
+  "Refil": {
+    "message": "nachfüllen",
+    "title": "nachfüllen"
+  }
+}

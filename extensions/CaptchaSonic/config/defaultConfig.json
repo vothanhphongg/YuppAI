@@ -1,0 +1,90 @@
+{
+  "APIKEY": "sonic_ee06ff1dd26f91768eaa2e8905d5792cf189",
+  "ACTIVE": true,
+  "THEME": "light",
+  "TITLES": [
+    "POPULARCAPTCHA",
+    "RECAPTCHA2",
+    "AWSWAF",
+    "BLS",
+    "GEETEST",
+    "MTCAPTCHA",
+    "PROSOPO",
+    "TIKTOK",
+    "CAPTCHAFOX"
+  ],
+  "CAPTCHAS": [
+    "POPULARCAPTCHA",
+    "RECAPTCHA2",
+    "AWSWAF",
+    "BLS",
+    "GEETEST",
+    "MTCAPTCHA",
+    "PROSOPO",
+    "TIKTOK",
+    "CAPTCHAFOX"
+  ],
+  "BLACKLIST": [
+    "https://github.com"
+  ],
+  "BLACKLISTENABLED": false,
+  "AUTOOPENENABLED": true,
+  "LOGENABLED": true,
+  "Local_lang": "en",
+  "NOTIFICATION": true,
+  "GUIDE_PAGE": true,
+  "OPTIONS": {
+    "POPULARCAPTCHA": {
+      "ENABLED": true,
+      "ALWAYSSOLVE": true,
+      "AUTOOPEN": true,
+      "AUTOSOLVE": true,
+      "ENGLISH": true
+    },
+    "RECAPTCHA2": {
+      "ENABLED": true,
+      "ALWAYSSOLVE": true,
+      "AUTOOPEN": true,
+      "AUTOSOLVE": true,
+      "METHOD": "RECOGNITION"
+    },
+    "AWSWAF": {
+      "ENABLED": true,
+      "AUTOOPEN": true,
+      "AUTOSOLVE": true
+    },
+    "BLS": {
+      "ENABLED": true,
+      "AUTOOPEN": false,
+      "AUTOSOLVE": true
+    },
+    "GEETEST": {
+      "ENABLED": true,
+      "AUTOOPEN": true,
+      "AUTOSOLVE": true,
+      "SOLVETIME": 5
+    },
+    "MTCAPTCHA": {
+      "ENABLED": true,
+      "AUTOSOLVE": true,
+      "METHOD": "RECOGNITION"
+    },
+    "PROSOPO": {
+      "ENABLED": true,
+      "ALWAYSSOLVE": true,
+      "AUTOOPEN": true,
+      "AUTOSOLVE": true
+    },
+    "TIKTOK": {
+      "ENABLED": true,
+      "ALWAYSSOLVE": true,
+      "AUTOSOLVE": true
+    },
+    "CAPTCHAFOX": {
+      "ENABLED": true,
+      "AUTOOPEN": true,
+      "ALWAYSSOLVE": true,
+      "AUTOSOLVE": true
+    }
+  }
+}

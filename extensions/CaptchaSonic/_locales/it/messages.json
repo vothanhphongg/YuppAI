@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "Prodotti",
+      "title": "Prodotti"
+    },
+    "Balance": {
+      "message": "Saldo",
+      "title": "Saldo"
+    },
+    "Enter_API_KEY": {
+      "message": "Inserisci qui la tua chiave API...",
+      "title": "Inserisci qui la tua chiave API..."
+    },
+    "Available_Balance": {
+      "message": "Saldo Disponibile",
+      "title": "Saldo Disponibile"
+    },
+    "Add_Balance": {
+      "message": "Aggiungi Saldo",
+      "title": "Aggiungi Saldo"
+    },
+    "Invalid_API": {
+      "message": "Chiave API non valida",
+      "title": "Chiave API non valida"
+    },
+    "Get_API_key": {
+      "message": "Ottieni Chiave API",
+      "title": "Ottieni Chiave API"
+    },
+    "Get_Your_API_Key": {
+      "message": "Ottieni la tua Chiave API",
+      "title": "Ottieni la tua Chiave API"
+    },
+    "Credits": {
+      "message": "Crediti",
+      "title": "Crediti"
+    },
+    "DailyUse": {
+      "message": "Limite Giornaliero",
+      "title": "Limite Giornaliero"
+    },
+    "Usage_Progress": {
+      "message": "Progresso Utilizzo",
+      "title": "Progresso Utilizzo"
+    },
+    "Add_BlackList_Url": {
+      "message": "Lista Nera",
+      "title": "Lista Nera"
+    },
+    "Add_URL": {
+      "message": "Blocca",
+      "title": "Blocca"
+    },
+    "Privacy": {
+      "message": "Privacy",
+      "title": "Privacy"
+    },
+    "Updating": {
+      "message": "Caricamento...",
+      "title": "Caricamento..."
+    },
+    "Remaining": {
+      "message": "rimanente",
+      "title": "rimanente"
+    },
+    "Subcription": {
+      "message": "Acquista un Abbonamento!",
+      "title": "Acquista un Abbonamento!"
+    },
+    "View_plan": {
+      "message": "visualizza piano",
+      "title": "visualizza piano"
+    },
+    "Upgrade_plan": {
+      "message": "aggiorna",
+      "title": "aggiorna"
+    },
+    "Auto_open": {
+      "message": "Apertura Automatica",
+      "title": "Apertura Automatica"
+    },
+    "Notification": {
+      "message": "Notifica",
+      "title": "Notifica"
+    },
+    "Expire": {
+      "message": "scaduto",
+      "title": "scaduto"
+    },
+    "Refil": {
+      "message": "rifornire",
+      "title": "rifornire"
+    }
+  }
+  
