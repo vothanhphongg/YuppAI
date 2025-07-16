@@ -1,0 +1,96 @@
+
+{
+    "CaptchaList": {
+      "message": "Produkty",
+      "title": "Produkty"
+    },
+    "Balance": {
+      "message": "Zůstatek",
+      "title": "Zůstatek"
+    },
+    "Enter_API_KEY": {
+      "message": "Zadejte svůj API klíč zde...",
+      "title": "Zadejte svůj API klíč zde..."
+    },
+    "Available_Balance": {
+      "message": "Dostupný zůstatek",
+      "title": "Dostupný zůstatek"
+    },
+    "Add_Balance": {
+      "message": "Přidat zůstatek",
+      "title": "Přidat zůstatek"
+    },
+    "Invalid_API": {
+      "message": "Neplatný API klíč",
+      "title": "Neplatný API klíč"
+    },
+    "Get_API_key": {
+      "message": "Získejte API klíč",
+      "title": "Získejte API klíč"
+    },
+    "Get_Your_API_Key": {
+      "message": "Získejte svůj API klíč",
+      "title": "Získejte svůj API klíč"
+    },
+    "Credits": {
+      "message": "Kredity",
+      "title": "Kredity"
+    },
+    "DailyUse": {
+      "message": "Denní limit",
+      "title": "Denní limit"
+    },
+    "Usage_Progress": {
+      "message": "Postup využití",
+      "title": "Postup využití"
+    },
+    "Add_BlackList_Url": {
+      "message": "Černá listina",
+      "title": "Černá listina"
+    },
+    "Add_URL": {
+      "message": "Blokovat",
+      "title": "Blokovat"
+    },
+    "Privacy": {
+      "message": "Soukromí",
+      "title": "Soukromí"
+    },
+    "Updating": {
+      "message": "Načítání...",
+      "title": "Načítání..."
+    },
+    "Remaining": {
+      "message": "Zbývá",
+      "title": "Zbývá"
+    },
+    "Subcription": {
+      "message": "Zakupte předplatné!",
+      "title": "Zakupte předplatné!"
+    },
+    "View_plan": {
+      "message": "Zobrazit plán",
+      "title": "Zobrazit plán"
+    },
+    "Upgrade_plan": {
+      "message": "vylepšit",
+      "title": "vylepšit"
+    },
+    "Auto_open": {
+      "message": "Automatické otevření",
+      "title": "Automatické otevření"
+    },
+    "Notification": {
+      "message": "Oznámení",
+      "title": "Oznámení"
+    },
+    "Expire": {
+      "message": "vypršelo",
+      "title": "vypršelo"
+    },
+    "Refil": {
+      "message": "doplnit",
+      "title": "doplnit"
+    }
+  }
+  

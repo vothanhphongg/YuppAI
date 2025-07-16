@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "ผลิตภัณฑ์",
+      "title": "ผลิตภัณฑ์"
+    },
+    "Balance": {
+      "message": "ยอดคงเหลือ",
+      "title": "ยอดคงเหลือ"
+    },
+    "Enter_API_KEY": {
+      "message": "กรอกคีย์ API ของคุณที่นี่...",
+      "title": "กรอกคีย์ API ของคุณที่นี่..."
+    },
+    "Available_Balance": {
+      "message": "ยอดคงเหลือที่ใช้ได้",
+      "title": "ยอดคงเหลือที่ใช้ได้"
+    },
+    "Add_Balance": {
+      "message": "เพิ่มยอดคงเหลือ",
+      "title": "เพิ่มยอดคงเหลือ"
+    },
+    "Invalid_API": {
+      "message": "คีย์ API ไม่ถูกต้อง",
+      "title": "คีย์ API ไม่ถูกต้อง"
+    },
+    "Get_API_key": {
+      "message": "รับคีย์ API",
+      "title": "รับคีย์ API"
+    },
+    "Get_Your_API_Key": {
+      "message": "รับคีย์ API ของคุณ",
+      "title": "รับคีย์ API ของคุณ"
+    },
+    "Credits": {
+      "message": "เครดิต",
+      "title": "เครดิต"
+    },
+    "DailyUse": {
+      "message": "ขีดจำกัดรายวัน",
+      "title": "ขีดจำกัดรายวัน"
+    },
+    "Usage_Progress": {
+      "message": "ความคืบหน้าการใช้งาน",
+      "title": "ความคืบหน้าการใช้งาน"
+    },
+    "Add_BlackList_Url": {
+      "message": "บัญชีดำ",
+      "title": "บัญชีดำ"
+    },
+    "Add_URL": {
+      "message": "บล็อก",
+      "title": "บล็อก"
+    },
+    "Privacy": {
+      "message": "ความเป็นส่วนตัว",
+      "title": "ความเป็นส่วนตัว"
+    },
+    "Updating": {
+      "message": "กำลังโหลด...",
+      "title": "กำลังโหลด..."
+    },
+    "Remaining": {
+      "message": "เหลือ",
+      "title": "เหลือ"
+    },
+    "Subcription": {
+      "message": "ซื้อสมาชิก!",
+      "title": "ซื้อสมาชิก!"
+    },
+    "View_plan": {
+      "message": "ดูแผน",
+      "title": "ดูแผน"
+    },
+    "Upgrade_plan": {
+      "message": "อัปเกรดแผน",
+      "title": "อัปเกรดแผน"
+    },
+    "Auto_open": {
+      "message": "เปิดอัตโนมัติ",
+      "title": "เปิดอัตโนมัติ"
+    },
+    "Notification": {
+      "message": "การแจ้งเตือน",
+      "title": "การแจ้งเตือน"
+    },
+    "Expire": {
+      "message": "หมดอายุ",
+      "title": "หมดอายุ"
+    },
+    "Refil": {
+      "message": "เติมใหม่",
+      "title": "เติมใหม่"
+    }
+  }
+  

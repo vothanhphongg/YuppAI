@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "製品",
+      "title": "製品"
+    },
+    "Balance": {
+      "message": "残高",
+      "title": "残高"
+    },
+    "Enter_API_KEY": {
+      "message": "ここにAPIキーを入力してください...",
+      "title": "ここにAPIキーを入力してください..."
+    },
+    "Available_Balance": {
+      "message": "利用可能な残高",
+      "title": "利用可能な残高"
+    },
+    "Add_Balance": {
+      "message": "残高を追加",
+      "title": "残高を追加"
+    },
+    "Invalid_API": {
+      "message": "無効なAPIキー",
+      "title": "無効なAPIキー"
+    },
+    "Get_API_key": {
+      "message": "APIキーを取得",
+      "title": "APIキーを取得"
+    },
+    "Get_Your_API_Key": {
+      "message": "あなたのAPIキーを取得",
+      "title": "あなたのAPIキーを取得"
+    },
+    "Credits": {
+      "message": "クレジット",
+      "title": "クレジット"
+    },
+    "DailyUse": {
+      "message": "1日の制限",
+      "title": "1日の制限"
+    },
+    "Usage_Progress": {
+      "message": "使用状況",
+      "title": "使用状況"
+    },
+    "Add_BlackList_Url": {
+      "message": "ブラックリスト",
+      "title": "ブラックリスト"
+    },
+    "Add_URL": {
+      "message": "ブロック",
+      "title": "ブロック"
+    },
+    "Privacy": {
+      "message": "プライバシー",
+      "title": "プライバシー"
+    },
+    "Updating": {
+      "message": "読み込み中...",
+      "title": "読み込み中..."
+    },
+    "Remaining": {
+      "message": "残り",
+      "title": "残り"
+    },
+    "Subcription": {
+      "message": "サブスク購入！",
+      "title": "サブスク購入！"
+    },
+    "View_plan": {
+      "message": "プランを見る",
+      "title": "プランを見る"
+    },
+    "Upgrade_plan": {
+      "message": "プラン改善",
+      "title": "プラン改善"
+    },
+    "Auto_open": {
+      "message": "自動開封",
+      "title": "自動開封"
+    },
+    "Notification": {
+      "message": "通知",
+      "title": "通知"
+    },
+    "Expire": {
+      "message": "期限切れ",
+      "title": "期限切れ"
+    },
+    "Refil": {
+      "message": "再充填",
+      "title": "再充填"
+    }
+  }
+  

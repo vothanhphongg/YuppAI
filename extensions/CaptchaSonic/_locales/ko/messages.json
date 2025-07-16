@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "제품",
+      "title": "제품"
+    },
+    "Balance": {
+      "message": "잔액",
+      "title": "잔액"
+    },
+    "Enter_API_KEY": {
+      "message": "여기에 API 키를 입력하세요...",
+      "title": "여기에 API 키를 입력하세요..."
+    },
+    "Available_Balance": {
+      "message": "사용 가능한 잔액",
+      "title": "사용 가능한 잔액"
+    },
+    "Add_Balance": {
+      "message": "잔액 추가",
+      "title": "잔액 추가"
+    },
+    "Invalid_API": {
+      "message": "유효하지 않은 API 키",
+      "title": "유효하지 않은 API 키"
+    },
+    "Get_API_key": {
+      "message": "API 키 받기",
+      "title": "API 키 받기"
+    },
+    "Get_Your_API_Key": {
+      "message": "API 키 받기",
+      "title": "API 키 받기"
+    },
+    "Credits": {
+      "message": "크레딧",
+      "title": "크레딧"
+    },
+    "DailyUse": {
+      "message": "일일 제한",
+      "title": "일일 제한"
+    },
+    "Usage_Progress": {
+      "message": "사용 진행 상황",
+      "title": "사용 진행 상황"
+    },
+    "Add_BlackList_Url": {
+      "message": "블랙리스트",
+      "title": "블랙리스트"
+    },
+    "Add_URL": {
+      "message": "차단",
+      "title": "차단"
+    },
+    "Privacy": {
+      "message": "개인정보",
+      "title": "개인정보"
+    },
+    "Updating": {
+      "message": "로딩 중...",
+      "title": "로딩 중..."
+    },
+    "Remaining": {
+      "message": "남은",
+      "title": "남은"
+    },
+    "Subcription": {
+      "message": "구독 구매!",
+      "title": "구독 구매!"
+    },
+    "View_plan": {
+      "message": "계획 보기",
+      "title": "계획 보기"
+    },
+    "Upgrade_plan": {
+      "message": "계획 개선",
+      "title": "계획 개선"
+    },
+    "Auto_open": {
+      "message": "자동 열기",
+      "title": "자동 열기"
+    },
+    "Notification": {
+      "message": "알림",
+      "title": "알림"
+    },
+    "Expire": {
+      "message": "만료됨",
+      "title": "만료됨"
+    },
+    "Refil": {
+      "message": "다채우기",
+      "title": "다채우기"
+    }
+  }
+  

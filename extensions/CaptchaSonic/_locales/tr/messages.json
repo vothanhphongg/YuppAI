@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "Ürünler",
+      "title": "Ürünler"
+    },
+    "Balance": {
+      "message": "Bakiye",
+      "title": "Bakiye"
+    },
+    "Enter_API_KEY": {
+      "message": "API anahtarınızı buraya girin...",
+      "title": "API anahtarınızı buraya girin..."
+    },
+    "Available_Balance": {
+      "message": "Mevcut Bakiye",
+      "title": "Mevcut Bakiye"
+    },
+    "Add_Balance": {
+      "message": "Bakiye Ekle",
+      "title": "Bakiye Ekle"
+    },
+    "Invalid_API": {
+      "message": "Geçersiz API Anahtarı",
+      "title": "Geçersiz API Anahtarı"
+    },
+    "Get_API_key": {
+      "message": "API Anahtarını Al",
+      "title": "API Anahtarını Al"
+    },
+    "Get_Your_API_Key": {
+      "message": "API Anahtarınızı Alın",
+      "title": "API Anahtarınızı Alın"
+    },
+    "Credits": {
+      "message": "Krediler",
+      "title": "Krediler"
+    },
+    "DailyUse": {
+      "message": "Günlük Limit",
+      "title": "Günlük Limit"
+    },
+    "Usage_Progress": {
+      "message": "Kullanım İlerlemesi",
+      "title": "Kullanım İlerlemesi"
+    },
+    "Add_BlackList_Url": {
+      "message": "Kara Liste",
+      "title": "Kara Liste"
+    },
+    "Add_URL": {
+      "message": "Engelle",
+      "title": "Engelle"
+    },
+    "Privacy": {
+      "message": "Gizlilik",
+      "title": "Gizlilik"
+    },
+    "Updating": {
+      "message": "Yükleniyor...",
+      "title": "Yükleniyor..."
+    },
+    "Remaining": {
+      "message": "kalan",
+      "title": "kalan"
+    },
+    "Subcription": {
+      "message": "Abonelik Al!",
+      "title": "Abonelik Al!"
+    },
+    "View_plan": {
+      "message": "Planı Görüntüle",
+      "title": "Planı Görüntüle"
+    },
+    "Upgrade_plan": {
+      "message": "Yükselt",
+      "title": "Yükselt"
+    },
+    "Auto_open": {
+      "message": "Otomatik Aç",
+      "title": "Otomatik Aç"
+    },
+    "Notification": {
+      "message": "Bildirim",
+      "title": "Bildirim"
+    },
+    "Expire": {
+      "message": "sonlanmış",
+      "title": "sonlanmış"
+    },
+    "Refil": {
+      "message": "doldur",
+      "title": "doldur"
+    }
+  }
+  

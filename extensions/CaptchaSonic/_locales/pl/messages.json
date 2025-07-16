@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "Produkty",
+      "title": "Produkty"
+    },
+    "Balance": {
+      "message": "Saldo",
+      "title": "Saldo"
+    },
+    "Enter_API_KEY": {
+      "message": "Wprowadź swój klucz API tutaj...",
+      "title": "Wprowadź swój klucz API tutaj..."
+    },
+    "Available_Balance": {
+      "message": "Dostępne saldo",
+      "title": "Dostępne saldo"
+    },
+    "Add_Balance": {
+      "message": "Dodaj saldo",
+      "title": "Dodaj saldo"
+    },
+    "Invalid_API": {
+      "message": "Nieprawidłowy klucz API",
+      "title": "Nieprawidłowy klucz API"
+    },
+    "Get_API_key": {
+      "message": "Pobierz klucz API",
+      "title": "Pobierz klucz API"
+    },
+    "Get_Your_API_Key": {
+      "message": "Pobierz swój klucz API",
+      "title": "Pobierz swój klucz API"
+    },
+    "Credits": {
+      "message": "Kredyty",
+      "title": "Kredyty"
+    },
+    "DailyUse": {
+      "message": "Dzienny limit",
+      "title": "Dzienny limit"
+    },
+    "Usage_Progress": {
+      "message": "Postęp użycia",
+      "title": "Postęp użycia"
+    },
+    "Add_BlackList_Url": {
+      "message": "Czarna lista",
+      "title": "Czarna lista"
+    },
+    "Add_URL": {
+      "message": "Zablokuj",
+      "title": "Zablokuj"
+    },
+    "Privacy": {
+      "message": "Prywatność",
+      "title": "Prywatność"
+    },
+    "Updating": {
+      "message": "Ładowanie...",
+      "title": "Ładowanie..."
+    },
+    "Remaining": {
+      "message": "pozostało",
+      "title": "pozostało"
+    },
+    "Subcription": {
+      "message": "Kup subskrypcję!",
+      "title": "Kup subskrypcję!"
+    },
+    "View_plan": {
+      "message": "zobacz plan",
+      "title": "zobacz plan"
+    },
+    "Upgrade_plan": {
+      "message": "aktualizuj",
+      "title": "aktualizuj"
+    },
+    "Auto_open": {
+      "message": "Automatyczne otwieranie",
+      "title": "Automatyczne otwieranie"
+    },
+    "Notification": {
+      "message": "Powiadomienie",
+      "title": "Powiadomienie"
+    },
+    "Expire": {
+      "message": "wygasło",
+      "title": "wygasło"
+    },
+    "Refil": {
+      "message": "dodać",
+      "title": "dodać"
+    }
+  }
+  

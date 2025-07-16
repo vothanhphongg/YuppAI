@@ -1,0 +1,94 @@
+{
+  "CaptchaList": {
+    "message": "Products",
+    "title": "Products"
+  },
+  "Balance": {
+    "message": "Balance",
+    "title": "Balance"
+  },
+  "Enter_API_KEY": {
+    "message": "Enter your API key here...",
+    "title": "Enter your API key here..."
+  },
+  "Available_Balance": {
+    "message": "BALANCE",
+    "title": "BALANCE"
+  },
+  "Add_Balance": {
+    "message": "Add Balance",
+    "title": "Add Balance"
+  },
+  "Invalid_API": {
+    "message": "Invalid API-KEY",
+    "title": "Invalid API-KEY"
+  },
+  "Get_API_key": {
+    "message": "Get API Key",
+    "title": "Get API Key"
+  },
+  "Get_Your_API_Key": {
+    "message": "Get Your API-KEY",
+    "title": "Get Your API-KEY"
+  },
+  "Credits": {
+    "message": "Credits",
+    "title": "Credits"
+  },
+  "DailyUse": {
+    "message": "Daily Limit",
+    "title": "Daily Limit"
+  },
+  "Usage_Progress": {
+    "message": "Usage Progress",
+    "title": "Usage Progress"
+  },
+  "Add_BlackList_Url": {
+    "message": "BLACKLIST",
+    "title": "BLACKLIST"
+  },
+  "Add_URL": {
+    "message": "Block",
+    "title": "Block"
+  },
+  "Privacy": {
+    "message": "Privacy",
+    "title": "Privacy"
+  },
+  "Updating": {
+    "message": "Loading...",
+    "title": "Loading..."
+  },
+  "Remaining": {
+    "message": "remaining",
+    "title": "remaining"
+  },
+  "Subcription": {
+    "message": "Buy Subscription!",
+    "title": "Buy a Subscription!"
+  },
+  "View_plan": {
+    "message": "view plan",
+    "title": "view plan"
+  },
+  "Upgrade_plan": {
+    "message": "upgrade",
+    "title": "upgrade"
+  },
+  "Auto_open": {
+    "message": "Auto Open",
+    "title": "Auto Open"
+  },
+  "Notification": {
+    "message": "Notification",
+    "title": "Notification"
+  },
+  "Expire": {
+    "message": "Expire in",
+    "title": "Expire in"
+  },
+  "Refil": {
+    "message": "Refill in",
+    "title": "Refill in"
+  }
+}

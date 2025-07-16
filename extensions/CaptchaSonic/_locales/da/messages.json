@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "Produkter",
+      "title": "Produkter"
+    },
+    "Balance": {
+      "message": "Saldo",
+      "title": "Saldo"
+    },
+    "Enter_API_KEY": {
+      "message": "Indtast din API-nøgle her...",
+      "title": "Indtast din API-nøgle her..."
+    },
+    "Available_Balance": {
+      "message": "Tilgængelig saldo",
+      "title": "Tilgængelig saldo"
+    },
+    "Add_Balance": {
+      "message": "Tilføj saldo",
+      "title": "Tilføj saldo"
+    },
+    "Invalid_API": {
+      "message": "Ugyldig API-nøgle",
+      "title": "Ugyldig API-nøgle"
+    },
+    "Get_API_key": {
+      "message": "Hent API-nøgle",
+      "title": "Hent API-nøgle"
+    },
+    "Get_Your_API_Key": {
+      "message": "Hent din API-nøgle",
+      "title": "Hent din API-nøgle"
+    },
+    "Credits": {
+      "message": "Credits",
+      "title": "Credits"
+    },
+    "DailyUse": {
+      "message": "Daglig grænse",
+      "title": "Daglig grænse"
+    },
+    "Usage_Progress": {
+      "message": "Brugsstatus",
+      "title": "Brugsstatus"
+    },
+    "Add_BlackList_Url": {
+      "message": "Sortliste",
+      "title": "Sortliste"
+    },
+    "Add_URL": {
+      "message": "Bloker",
+      "title": "Bloker"
+    },
+    "Privacy": {
+      "message": "Privatliv",
+      "title": "Privatliv"
+    },
+    "Updating": {
+      "message": "Indlæser...",
+      "title": "Indlæser..."
+    },
+    "Remaining": {
+      "message": "resterende",
+      "title": "resterende"
+    },
+    "Subcription": {
+      "message": "Køb abonnement!",
+      "title": "Køb abonnement!"
+    },
+    "View_plan": {
+      "message": "se plan",
+      "title": "se plan"
+    },
+    "Upgrade_plan": {
+      "message": "opgrader",
+      "title": "opgrader"
+    },
+    "Auto_open": {
+      "message": "Automatisk åbning",
+      "title": "Automatisk åbning"
+    },
+    "Notification": {
+      "message": "Meddelelse",
+      "title": "Meddelelse"
+    },
+    "Expire": {
+      "message": "истекао",
+      "title": "истекао"
+    },
+    "Refil": {
+      "message": "dopuniti",
+      "title": "dopuniti"
+    }
+  }
+  

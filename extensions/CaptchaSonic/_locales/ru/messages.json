@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "Продукты",
+      "title": "Продукты"
+    },
+    "Balance": {
+      "message": "Баланс",
+      "title": "Баланс"
+    },
+    "Enter_API_KEY": {
+      "message": "Введите ваш API-ключ здесь...",
+      "title": "Введите ваш API-ключ здесь..."
+    },
+    "Available_Balance": {
+      "message": "Доступный баланс",
+      "title": "Доступный баланс"
+    },
+    "Add_Balance": {
+      "message": "Добавить баланс",
+      "title": "Добавить баланс"
+    },
+    "Invalid_API": {
+      "message": "Неверный API-ключ",
+      "title": "Неверный API-ключ"
+    },
+    "Get_API_key": {
+      "message": "Получить API-ключ",
+      "title": "Получить API-ключ"
+    },
+    "Get_Your_API_Key": {
+      "message": "Получите ваш API-ключ",
+      "title": "Получите ваш API-ключ"
+    },
+    "Credits": {
+      "message": "Кредиты",
+      "title": "Кредиты"
+    },
+    "DailyUse": {
+      "message": "Ежедневный лимит",
+      "title": "Ежедневный лимит"
+    },
+    "Usage_Progress": {
+      "message": "Прогресс использования",
+      "title": "Прогресс использования"
+    },
+    "Add_BlackList_Url": {
+      "message": "Черный список",
+      "title": "Черный список"
+    },
+    "Add_URL": {
+      "message": "Заблокировать",
+      "title": "Заблокировать"
+    },
+    "Privacy": {
+      "message": "Конфиденциальность",
+      "title": "Конфиденциальность"
+    },
+    "Updating": {
+      "message": "Загрузка...",
+      "title": "Загрузка..."
+    },
+    "Remaining": {
+      "message": "осталось",
+      "title": "осталось"
+    },
+    "Subcription": {
+      "message": "Купить подписку!",
+      "title": "Купить подписку!"
+    },
+    "View_plan": {
+      "message": "Просмотреть план",
+      "title": "Просмотреть план"
+    },
+    "Upgrade_plan": {
+      "message": "Обновить",
+      "title": "Обновить"
+    },
+    "Auto_open": {
+      "message": "Автоматическое открытие",
+      "title": "Автоматическое открытие"
+    },
+    "Notification": {
+      "message": "Уведомление",
+      "title": "Уведомление"
+    },
+    "Expire": {
+      "message": "истек",
+      "title": "истек"
+    },
+    "Refil": {
+      "message": "добавить",
+      "title": "добавить"
+    }
+  }
+  

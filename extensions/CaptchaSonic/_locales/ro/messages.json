@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "Produse",
+      "title": "Produse"
+    },
+    "Balance": {
+      "message": "Sold",
+      "title": "Sold"
+    },
+    "Enter_API_KEY": {
+      "message": "Introdu cheia ta API aici...",
+      "title": "Introdu cheia ta API aici..."
+    },
+    "Available_Balance": {
+      "message": "Sold disponibil",
+      "title": "Sold disponibil"
+    },
+    "Add_Balance": {
+      "message": "Adaugă sold",
+      "title": "Adaugă sold"
+    },
+    "Invalid_API": {
+      "message": "Cheie API invalidă",
+      "title": "Cheie API invalidă"
+    },
+    "Get_API_key": {
+      "message": "Obține cheia API",
+      "title": "Obține cheia API"
+    },
+    "Get_Your_API_Key": {
+      "message": "Obține cheia ta API",
+      "title": "Obține cheia ta API"
+    },
+    "Credits": {
+      "message": "Credite",
+      "title": "Credite"
+    },
+    "DailyUse": {
+      "message": "Limită zilnică",
+      "title": "Limită zilnică"
+    },
+    "Usage_Progress": {
+      "message": "Progres utilizare",
+      "title": "Progres utilizare"
+    },
+    "Add_BlackList_Url": {
+      "message": "Listă neagră",
+      "title": "Listă neagră"
+    },
+    "Add_URL": {
+      "message": "Blochează",
+      "title": "Blochează"
+    },
+    "Privacy": {
+      "message": "Confidențialitate",
+      "title": "Confidențialitate"
+    },
+    "Updating": {
+      "message": "Se încarcă...",
+      "title": "Se încarcă..."
+    },
+    "Remaining": {
+      "message": "rămas",
+      "title": "rămas"
+    },
+    "Subcription": {
+      "message": "Cumpără abonament!",
+      "title": "Cumpără abonament!"
+    },
+    "View_plan": {
+      "message": "vezi planul",
+      "title": "vezi planul"
+    },
+    "Upgrade_plan": {
+      "message": "actualiza",
+      "title": "actualiza"
+    },
+    "Auto_open": {
+      "message": "Deschidere automată",
+      "title": "Deschidere automată"
+    },
+    "Notification": {
+      "message": "Notificare",
+      "title": "Notificare"
+    },
+    "Expire": {
+      "message": "expirat",
+      "title": "expirat"
+    },
+    "Refil": {
+      "message": "umple",
+      "title": "umple"
+    }
+  }
+  

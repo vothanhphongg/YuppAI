@@ -1,0 +1,95 @@
+{
+  "CaptchaList": {
+    "message": "পণ্যসমূহ",
+    "title": "পণ্যসমূহ"
+  },
+  "Balance": {
+    "message": "ব্যালেন্স",
+    "title": "ব্যালেন্স"
+  },
+  "Enter_API_KEY": {
+    "message": "আপনার API কী এখানে দিন...",
+    "title": "আপনার API কী এখানে দিন..."
+  },
+  "Available_Balance": {
+    "message": "উপলব্ধ ব্যালেন্স",
+    "title": "উপলব্ধ ব্যালেন্স"
+  },
+  "Add_Balance": {
+    "message": "ব্যালেন্স যোগ করুন",
+    "title": "ব্যালেন্স যোগ করুন"
+  },
+  "Invalid_API": {
+    "message": "অবৈধ API-KEY",
+    "title": "অবৈধ API-KEY"
+  },
+  "Get_API_key": {
+    "message": "API Key নিন",
+    "title": "API Key নিন"
+  },
+  "Get_Your_API_Key": {
+    "message": "আপনার API-KEY নিন",
+    "title": "আপনার API-KEY নিন"
+  },
+  "Credits": {
+    "message": "ক্রেডিট",
+    "title": "ক্রেডিট"
+  },
+  "DailyUse": {
+    "message": "দৈনিক ব্যবহার",
+    "title": "দৈনিক ব্যবহার"
+  },
+  "Usage_Progress": {
+    "message": "ব্যবহার অগ্রগতি",
+    "title": "ব্যবহার অগ্রগতি"
+  },
+  "Add_BlackList_Url": {
+    "message": "কালো তালিকায় URL যোগ করুন",
+    "title": "কালো তালিকায় URL যোগ করুন"
+  },
+  "Add_URL": {
+    "message": "অবরোধ",
+    "title": "অবরোধ"
+  },
+  "Privacy": {
+    "message": "গোপনীয়তা",
+    "title": "গোপনীয়তা"
+  },
+  "Updating": {
+    "message": "লোড হচ্ছে...",
+    "title": "লোড হচ্ছে..."
+  },
+  "Remaining": {
+  "message": "অবশিষ্ট",
+  "title": "অবশিষ্ট"
+},
+"Subcription":{
+  "message":"সাবস্ক্রিপশন কিনুন!",
+  "title":"সাবস্ক্রিপশন কিনুন!"
+},
+"View_plan":{
+  "message":"পরিকল্পনা দেখুন",
+  "title":"পরিকল্পনা দেখুন"
+},
+"Upgrade_plan":{
+  "message":"পরিকল্পনা",
+  "title":"পরিকল্পনা"
+},
+"Auto_open": {
+  "message": "স্বয়ংক্রিয়ভাবে খোলা",
+  "title": "স্বয়ংক্রিয়ভাবে খোলা"
+},
+"Notification": {
+  "message": "নোটিফিকেশন",
+  "title": "নোটিফিকেশন"
+},
+"Expire": {
+  "message": "অবশিষ্ট",
+  "title": "অবশিষ্ট"
+},
+"Refil":{
+  "message": "পুনরাগমন",
+  "title": "পুনরাগমন"
+}
+
+}

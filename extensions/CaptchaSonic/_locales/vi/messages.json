@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "Sản phẩm",
+      "title": "Sản phẩm"
+    },
+    "Balance": {
+      "message": "Số dư",
+      "title": "Số dư"
+    },
+    "Enter_API_KEY": {
+      "message": "Nhập khóa API của bạn ở đây...",
+      "title": "Nhập khóa API của bạn ở đây..."
+    },
+    "Available_Balance": {
+      "message": "Số dư khả dụng",
+      "title": "Số dư khả dụng"
+    },
+    "Add_Balance": {
+      "message": "Thêm số dư",
+      "title": "Thêm số dư"
+    },
+    "Invalid_API": {
+      "message": "Khóa API không hợp lệ",
+      "title": "Khóa API không hợp lệ"
+    },
+    "Get_API_key": {
+      "message": "Lấy khóa API",
+      "title": "Lấy khóa API"
+    },
+    "Get_Your_API_Key": {
+      "message": "Lấy khóa API của bạn",
+      "title": "Lấy khóa API của bạn"
+    },
+    "Credits": {
+      "message": "Tín dụng",
+      "title": "Tín dụng"
+    },
+    "DailyUse": {
+      "message": "Giới hạn hàng ngày",
+      "title": "Giới hạn hàng ngày"
+    },
+    "Usage_Progress": {
+      "message": "Tiến độ sử dụng",
+      "title": "Tiến độ sử dụng"
+    },
+    "Add_BlackList_Url": {
+      "message": "Danh sách đen",
+      "title": "Danh sách đen"
+    },
+    "Add_URL": {
+      "message": "Chặn",
+      "title": "Chặn"
+    },
+    "Privacy": {
+      "message": "Quyền riêng tư",
+      "title": "Quyền riêng tư"
+    },
+    "Updating": {
+      "message": "Đang tải...",
+      "title": "Đang tải..."
+    },
+    "Remaining": {
+      "message": "còn lại",
+      "title": "còn lại"
+    },
+    "Subcription": {
+      "message": "Mua đăng ký!",
+      "title": "Mua đăng ký!"
+    },
+    "View_plan": {
+      "message": "Xem kế hoạch",
+      "title": "Xem kế hoạch"
+    },
+    "Upgrade_plan": {
+      "message": "Cải tiến",
+      "title": "Cải tiến"
+    },
+    "Auto_open": {
+      "message": "Mở tự động",
+      "title": "Mở tự động"
+    },
+    "Notification": {
+      "message": "Thông báo",
+      "title": "Thông báo"
+    },
+    "Expire": {
+      "message": "hết hạn",
+      "title": "hết hạn"
+    },
+    "Refil": {
+      "message": "nạp lại",
+      "title": "nạp lại"
+    }
+  }
+  

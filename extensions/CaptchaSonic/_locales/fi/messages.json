@@ -1,0 +1,95 @@
+{
+    "CaptchaList": {
+      "message": "Tuotteet",
+      "title": "Tuotteet"
+    },
+    "Balance": {
+      "message": "Saldo",
+      "title": "Saldo"
+    },
+    "Enter_API_KEY": {
+      "message": "Syötä API-avaimesi tähän...",
+      "title": "Syötä API-avaimesi tähän..."
+    },
+    "Available_Balance": {
+      "message": "Käytettävissä oleva saldo",
+      "title": "Käytettävissä oleva saldo"
+    },
+    "Add_Balance": {
+      "message": "Lisää saldoa",
+      "title": "Lisää saldoa"
+    },
+    "Invalid_API": {
+      "message": "Virheellinen API-avain",
+      "title": "Virheellinen API-avain"
+    },
+    "Get_API_key": {
+      "message": "Hanki API-avain",
+      "title": "Hanki API-avain"
+    },
+    "Get_Your_API_Key": {
+      "message": "Hanki API-avaimesi",
+      "title": "Hanki API-avaimesi"
+    },
+    "Credits": {
+      "message": "Krediitit",
+      "title": "Krediitit"
+    },
+    "DailyUse": {
+      "message": "Päivittäinen raja",
+      "title": "Päivittäinen raja"
+    },
+    "Usage_Progress": {
+      "message": "Käytön edistyminen",
+      "title": "Käytön edistyminen"
+    },
+    "Add_BlackList_Url": {
+      "message": "Estolista",
+      "title": "Estolista"
+    },
+    "Add_URL": {
+      "message": "Estä",
+      "title": "Estä"
+    },
+    "Privacy": {
+      "message": "Tietosuoja",
+      "title": "Tietosuoja"
+    },
+    "Updating": {
+      "message": "Ladataan...",
+      "title": "Ladataan..."
+    },
+    "Remaining": {
+      "message": "jäljellä",
+      "title": "jäljellä"
+    },
+    "Subcription": {
+      "message": "Osta tilaus!",
+      "title": "Osta tilaus!"
+    },
+    "View_plan": {
+      "message": "näytä suunnitelma",
+      "title": "näytä suunnitelma"
+    },
+    "Upgrade_plan": {
+      "message": "päivitä",
+      "title": "päivitä"
+    },
+    "Auto_open": {
+      "message": "Automaattinen avaus",
+      "title": "Automaattinen avaus"
+    },
+    "Notification": {
+      "message": "Ilmoitus",
+      "title": "Ilmoitus"
+    },
+    "Expire": {
+      "message": "vanha",
+      "title": "vanha"
+    },
+    "Refil": {
+      "message": "täyttää",
+      "title": "täyttää"
+    }
+  }
+  
