@@ -6,7 +6,7 @@ export async function loginGoogle(client, username, password) {
     try {
         await page.goto('https://yupp.ai', { waitUntil: 'domcontentloaded', timeout: 100000 })
 
-        const loginGoogleBtn = await page.waitForSelector('xpath//html/body/main/div/div[2]/div[2]/div[3]/button')
+        const loginGoogleBtn = await page.waitForSelector('xpath//html/body/div[1]/main/div/div[2]/div[2]/div[3]/button')
         await Promise.all([page.waitForNavigation({ waitUntil: 'networkidle2' }), loginGoogleBtn.click()])
 
         let usernameInput = await page.waitForSelector('xpath///*[@id="identifierId"]', { timeout: 100000 })
@@ -26,7 +26,7 @@ export async function loginGoogle(client, username, password) {
             throw new Error('Gmail not found.')
         }
 
-        await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 10000 }).catch(() => {})
+        await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 10000 }).catch(() => { })
 
         let passwordInput = await page.waitForSelector('xpath///*[@id="password"]/div[1]/div/div[1]/input', { visible: true, timeout: 100000 })
         await passwordInput.type(password)
@@ -45,7 +45,7 @@ export async function loginGoogle(client, username, password) {
             throw new Error('Gmail password is wrong.')
         }
 
-        await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 10000 }).catch(() => {})
+        await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 10000 }).catch(() => { })
         await sleep(2000)
 
         const acceptBtn = await page.$('xpath///*[@id="yDmH0d"]/c-wiz/div/div[3]/div/div/div[2]/div/div/button')
